@@ -1,5 +1,5 @@
 boto==2.39.0
-ecdsa==0.13
+ecdsa==0.13.3
 Fabric==1.10.2
 paramiko==1.16.0
 pathlib==1.0.1
