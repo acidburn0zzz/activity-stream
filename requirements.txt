@@ -4,4 +4,4 @@ Fabric==1.10.2
 paramiko==1.16.0
 pathlib==1.0.1
 pycrypto==2.6.1
-wheel==0.29.0
+wheel==0.38.1
